@@ -2,10 +2,10 @@
 
 // Tools
 const int gripper{10};
-const int WeldingGun{10};
-const int nozzle{10};
-const int pin{10};
-const int laser{10};
+const int WeldingGun{20};
+const int nozzle{30};
+const int pin{40};
+const int laser{50};
 
 int main(){
     
